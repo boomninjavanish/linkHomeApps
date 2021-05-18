@@ -1,3 +1,10 @@
+# os metadata files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Thumbs.db:encryptable
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
